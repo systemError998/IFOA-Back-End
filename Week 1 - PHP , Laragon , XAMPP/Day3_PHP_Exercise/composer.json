@@ -1,0 +1,17 @@
+{
+    "name": "annac/day3_php_exercise",
+    "autoload": {
+        "psr-4": {
+            "Annac\\Day3PhpExercise\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "systemError998",
+            "email": "annacerasoli998@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
